@@ -1,4 +1,4 @@
-identifier,mobile,otp,timestamp
-foo,123456678,009449,Thu Nov 18 2021 11:51:15 GMT+0800 (Singapore Standard Time)
-bar,333333,599399,Thu Nov 18 2021 11:51:37 GMT+0800 (Singapore Standard Time)
-sus,444,080329,Thu Nov 18 2021 12:11:56 GMT+0800 (Singapore Standard Time)
+identifier,mobile,otp,timestamp,verified
+foo,123456678,009449,Thu Nov 18 2021 11:51:15 GMT+0800 (Singapore Standard Time),false
+bar,333333,599399,Thu Nov 18 2021 11:51:37 GMT+0800 (Singapore Standard Time),false
+sus,444,080329,Thu Nov 18 2021 12:11:56 GMT+0800 (Singapore Standard Time),false
